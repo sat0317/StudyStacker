@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Study Stacker</string>
+    <string name="navigation_drawer_open">메뉴 열기</string>
+    <string name="navigation_drawer_close">메뉴 닫기</string>
+    <string name="nav_header_title">Study Stacker</string>
+    <string name="nav_header_subtitle">KHUMAKERS</string>
+    <string name="nav_header_desc">Menu</string>
+    <string name="action_settings">설정</string>
+
+    <string name="menu_home">시간 측정</string>
+    <string name="menu_gallery">설정</string>
+    <string name="menu_slideshow">블루투스</string>
+    <string name="title_activity_timer">시간 측정중</string>
+</resources>
